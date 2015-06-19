@@ -1,5 +1,3 @@
-(ns x)
-
 (loop [test-case-remaining (Integer/parseInt (read-line))]
   (if (= 0 test-case-remaining)
     values
