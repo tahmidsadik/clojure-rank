@@ -20,5 +20,3 @@
          (double (/ (count negative-nums) array-size))
          (double (/ (count zeroes) array-size))))
 
-
-
